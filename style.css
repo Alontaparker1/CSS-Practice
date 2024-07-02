@@ -1,25 +1,26 @@
-#body{background-color: azure;
-    
-font-family:Helvetica, arial, Sans-serif
+#body{
+background-color: azure; 
+font-family:Helvetica, arial, Sans-serif;
 }
 
 
+a{
 text-decoration: none;
 color:red;
-
+}
 h1, h2, h3{
     margin:0;
 }
 
 #container { 
    background-color: white;
-   margin-left:auto ;
+   margin-left:auto;
    margin-left: auto;
 }
 
 #header{
     background-color: antiquewhite;
-    color:aqua 
+    color:aqua; 
     text-align:center;
     padding: 10px;
 }
@@ -34,12 +35,14 @@ h1, h2, h3{
 }
 
 #nav ul{
-    list-style-type:none ;
-    padding:0 ;
+    list-style-type:none;
+    padding:0;
 }
 
-#nav.selected 
-front-weight:bold;
+#nav.selected
+{
+font-weight:bold;
+} 
 
 #main{
     width: 600px;
