@@ -3,3 +3,57 @@ background-color: azure;
 font-family:Helvetica, arial, Sans-serif;
 }
 
+
+a{
+    text-decoration: none;
+    color:red;
+}
+h1, h2, h3{
+        margin:0;
+}
+    
+    #container { 
+       background-color: white;
+       margin-left:auto;
+       margin-left: auto;
+    }
+    
+    #header{
+        background-color: antiquewhite;
+        color:aqua; 
+        text-align:center;
+        padding: 10px;
+    }
+    
+    #content{
+        padding: 10px;
+    }
+    
+    #nav{
+        width: 180px; 
+        float:left ;
+    }
+    
+    #nav ul{
+        list-style-type:none;
+        padding:0;
+    }
+    
+    #nav.selected
+    {
+    font-weight:bold;
+    } 
+    
+    #main{
+        width: 600px;
+        float:right ;
+    }
+    
+    #footer{
+        clear:both;
+        padding: 10px;
+        background-color: #999999;
+    color: white;
+    text-align: right;
+    }
+    
