@@ -1,6 +1,6 @@
 body{
 background-color: azure; 
-font-family:Helvetica, arial, Sans-serif;
+font-family: Helvetica, arial, Sans-serif;
 }
 
 
@@ -30,8 +30,8 @@ h1, h2, h3{
     }
     
     #nav{
-        width: 600px; 
-        float:right ;
+        width: 180px; 
+        float:left ;
     }
     
     #nav ul{
